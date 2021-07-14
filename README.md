@@ -1,7 +1,7 @@
 # my-repo
 
-Hello. THis is not a fun workshop. 
+Hello. THis is a fun workshop. 
 
-Cloning is hard. 
+Cloning is not so hard. 
 
 
